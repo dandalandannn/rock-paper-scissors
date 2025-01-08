@@ -56,7 +56,11 @@ button{
 button:active{
     background-color: hsla(0, 0%, 0%, 0.2);
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 675px){
+    .result{
+        color: rebeccapurple;
+        width: 100%;
+    }
     .picks img{
         width: 150px;
         max-width: 150px;
