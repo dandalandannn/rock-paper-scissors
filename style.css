@@ -58,7 +58,6 @@ button:active{
 }
 @media screen and (max-width: 675px){
     .result{
-        color: rebeccapurple;
         width: 100%;
     }
     .picks img{
